@@ -2,6 +2,8 @@
     "router": "0x0d0D743E3f00ac20a2733CCD32d6972A8F94cCb6",
     "priceoracle": "0x495E148a66b240D17Ba5c8E57aFF1F5259811241",
     "config": "0x8366Cf19616246992a0a25c0F06A42CB5f775798",
+    "amm_factory": "0xcAaD55E06Ed81192591Dd62D40E7177a9A4e5739",
+    "fee_treasury": "0x3Fed3f7C896d4B10D96e5Daa7198A210F6CbE8A2",
     "pairs": 
         {
             "ETH/USD": {
