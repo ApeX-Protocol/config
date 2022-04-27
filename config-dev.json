@@ -1,24 +1,19 @@
- {
-    "router": "0x0d0D743E3f00ac20a2733CCD32d6972A8F94cCb6",
-    "priceoracle": "0x495E148a66b240D17Ba5c8E57aFF1F5259811241",
-    "config": "0x8366Cf19616246992a0a25c0F06A42CB5f775798",
+{
+    "router": "0x7B147E506320fdEBEB8bff11c137d392e24C2d7f",
+    "price_oracle": "0x316a3f7C379646d5f82C23509944Ea407794AE42",
+    "config": "0x43624493A79eF508BC9EDe792E67aABD44e3BfE8",
+    "pair_factory": "0xf6DA867db55BCA6312132cCFC936160fB970fEF4",
     "amm_factory": "0xcAaD55E06Ed81192591Dd62D40E7177a9A4e5739",
+    "margin_factory": "0xD6399Edf1b694929D31895D34caAc05CcD21eBd5",
+    "pcv_treasury": "0x2225F0bEef512e0302D6C4EcE4f71c85C2312c06",
     "fee_treasury": "0x3Fed3f7C896d4B10D96e5Daa7198A210F6CbE8A2",
-    "pairs": 
-        {
-            "ETH/USD": {
-                "amm": "0x3eb6ccE3A2213C013eD9345faEbE2ef56c33609A",
-                "margin": "0x2fE7fC775D8eD8Da9fc1eEbfBAbfb57304448A03",
-                "baseToken": "weth",
-                "quoteToken": "usd"
-            },
-			"BTC/USD": {
-                "amm": "0x3eb6ccE3A2213C013eD9345faEbE2ef56c33609A",
-                "margin": "0x2fE7fC775D8eD8Da9fc1eEbfBAbfb57304448A03",
-                "baseToken": "weth",
-                "quoteToken": "usd"
-            }
+    "reward_for_cashback": "0x36e011C7598d034278989E71B4AB26F5B4251BDF",
+    "invitation": "0x93bfd8077120DD0350D56B662d7B8AbEcd39BA3b",
+    "nft_rebate": "0x6a0dFe9411D4921D025a4Da25d4458f937C85411",
+    "pairs": {
+        "ETH/USD": {
+            "amm": "0xA0b52dBdB5E4B62c8f3555C047440C555773767a",
+            "margin": "0xdB7F9790968D0E79BDf0F927f8A22fa23D90c20E"
         }
-    
-
+    }
 }
