@@ -1,0 +1,76 @@
+{
+    "router": {
+        "address": "0x7B147E506320fdEBEB8bff11c137d392e24C2d7f",
+        "start_block": 11438656
+    },
+    "price_oracle": {
+        "address": "0x316a3f7C379646d5f82C23509944Ea407794AE42",
+        "start_block": 11341239
+    },
+    "config": {
+        "address": "0x43624493A79eF508BC9EDe792E67aABD44e3BfE8",
+        "start_block": 11341242
+    },
+    "pair_factory": {
+        "address": "0xf6DA867db55BCA6312132cCFC936160fB970fEF4",
+        "start_block": 11341244
+    },
+    "amm_factory": {
+        "address": "0xcAaD55E06Ed81192591Dd62D40E7177a9A4e5739",
+        "start_block": 11341245
+    },
+    "margin_factory": {
+        "address": "0xD6399Edf1b694929D31895D34caAc05CcD21eBd5",
+        "start_block": 11341247
+    },
+    "pcv_treasury": {
+        "address": "0x2225F0bEef512e0302D6C4EcE4f71c85C2312c06",
+        "start_block": 10182895
+    },
+    "fee_treasury": {
+        "address": "0x3Fed3f7C896d4B10D96e5Daa7198A210F6CbE8A2",
+        "start_block": 11341448
+    },
+    "reward_for_cashback": {
+        "address": "0x36e011C7598d034278989E71B4AB26F5B4251BDF",
+        "start_block": 10588652
+    },
+    "invitation": {
+        "address": "0x93bfd8077120DD0350D56B662d7B8AbEcd39BA3b",
+        "start_block": 10182998
+    },
+    "nft_rebate": {
+        "address": "0x6a0dFe9411D4921D025a4Da25d4458f937C85411",
+        "start_block": 10677918
+    },
+    "pairs": {
+        "ETH/USD": {
+            "amm": "0xA0b52dBdB5E4B62c8f3555C047440C555773767a",
+            "margin": "0xdB7F9790968D0E79BDf0F927f8A22fa23D90c20E"
+        }
+    },
+    "bond_price_oracle": {
+        "address": "0xF0F22413f7d6b8Bd8039021d478F02ef1EaF5921",
+        "start_block": 11343698
+    },
+    "bond_pool_factory": {
+        "address": "0xC48aC87eCbCcD05c025c810Ee8fD11E771d75648",
+        "start_block": 11343709
+    },
+    "staking_pool_factory": {
+        "address": "0x30A939c5649c4A6F9BdADaF932d4CE908C60BC31",
+        "start_block": 11414011
+    },
+    "apex_pool": {
+        "address": "0xe20b92257f436EC899C70Efcc8F86367EeB682E1",
+        "start_block": 11414015
+    },
+    "es_apex": {
+        "address": "0x6B8E10C4C03650598a4DdF112F01855D869AabB6",
+        "start_block": 11414016
+    },
+    "ve_apex": {
+        "address": "0xAdDdA67aD1e9049991311eB399620EC7D8b38f4a",
+        "start_block": 11414017
+    }
+}
