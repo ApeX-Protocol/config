@@ -1,19 +1,19 @@
 {
-    "router": "0x7B147E506320fdEBEB8bff11c137d392e24C2d7f",
-    "price_oracle": "0x316a3f7C379646d5f82C23509944Ea407794AE42",
-    "config": "0x43624493A79eF508BC9EDe792E67aABD44e3BfE8",
-    "pair_factory": "0xf6DA867db55BCA6312132cCFC936160fB970fEF4",
-    "amm_factory": "0xcAaD55E06Ed81192591Dd62D40E7177a9A4e5739",
-    "margin_factory": "0xD6399Edf1b694929D31895D34caAc05CcD21eBd5",
-    "pcv_treasury": "0x2225F0bEef512e0302D6C4EcE4f71c85C2312c06",
-    "fee_treasury": "0x3Fed3f7C896d4B10D96e5Daa7198A210F6CbE8A2",
-    "reward_for_cashback": "0x36e011C7598d034278989E71B4AB26F5B4251BDF",
-    "invitation": "0x93bfd8077120DD0350D56B662d7B8AbEcd39BA3b",
-    "nft_rebate": "0x6a0dFe9411D4921D025a4Da25d4458f937C85411",
+    "router": "0x9C240130a08CEf0bc8903ccBE2EEcc731Cb7aAe5",
+    "price_oracle": "0xCAcf4C2745D246A7052137E55a8fAD026EEf7181",
+    "config": "0xCF4f7E54Cbd24C062Eda93A6f2aE30E039109dd6",
+    "pair_factory": "0xCE09a98C734ffB8e209b907FB0657193796FE3fD",
+    "amm_factory": "0xc64Aaf786a6a370C30919B03270A422FAB2dB463",
+    "margin_factory": "0xf6289de77C73CF143d16183387Da8a9Bd72D3D8a",
+    "pcv_treasury": "0x42C0E0fdA16CE20C3c15bBF666Ee79EaB5998F20",
+    "fee_treasury": "0xa605b22380E7eb86BC70f072fBB980Af3687f8d1",
+    "reward_for_cashback": "0xA637CCb82E22aE31b3D18Aa352a29c596b439948",
+    "invitation": "0x2CA340624AB10BF93437b03fC6Da0F05Cb1109DF",
+    "nft_rebate": "0xd265C511A5CdD0838C3BB60376f97956219aD7dA",
     "pairs": {
         "ETH/USD": {
-            "amm": "0xA0b52dBdB5E4B62c8f3555C047440C555773767a",
-            "margin": "0xdB7F9790968D0E79BDf0F927f8A22fa23D90c20E"
+            "amm": "0x01A3eae4edD0512d7d1e3B57eCD40A1A1b1076EE",
+            "margin": "0xb6815C460ED87353Af9D7e84B46659A99aB2D6F6"
         }
     }
 }
