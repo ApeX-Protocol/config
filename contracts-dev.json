@@ -1,7 +1,7 @@
 {
     "router": {
-        "address": "0x7B147E506320fdEBEB8bff11c137d392e24C2d7f",
-        "start_block": 11438656
+        "address": "0x2283c094C087eF83267706655Ce71DA9ed058580",
+        "start_block": 11725747
     },
     "price_oracle": {
         "address": "0x316a3f7C379646d5f82C23509944Ea407794AE42",
