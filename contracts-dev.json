@@ -73,8 +73,12 @@
         "address": "0xAdDdA67aD1e9049991311eB399620EC7D8b38f4a",
         "start_block": 11414017
     },
-    "orderbook": {
-        "address": "0xcD3B831BBc14d5cc62A7A895d3C4eB13e1899B20",
+    "order_book": {
+        "address": "0x0bD97B6516F27Ed800469eeFc0613cC40aDdcE6f",
+        "start_block": 11812431
+    },
+    "router_for_keeper": {
+        "address": "0x9d422f89b0852e406634d8e00a661507c48524d5",
         "start_block": 11812431
     }
 }
