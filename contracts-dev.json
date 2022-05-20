@@ -80,5 +80,37 @@
     "router_for_keeper": {
         "address": "0x9d422f89b0852e406634d8e00a661507c48524d5",
         "start_block": 11812431
-    }
+  },
+  "apex": {
+    "address": "0x3f355c9803285248084879521AE81FF4D3185cDD",
+    "start_block": 9330000
+  },
+  "WBTC": {
+    "address": "0x3f12c33bde6de5b66f88d7a5d3ce8de3c98b5fa7",
+    "start_block": 0
+  },
+  "WETH": {
+    "address": "0x655e2b2244934aea3457e3c56a7438c271778d44",
+    "start_block": 0
+  },
+  "USDC": {
+    "address": "0x79dcf515aa18399cf8fada58720fafbb1043c526",
+    "start_block": 0
+  },
+  "SHIB": {
+    "address": "0x1b9dcbf6cfeab28a5a359b3e0ca3d4ef3b2afd2c",
+    "start_block": 0
+  },
+  "multicall": {
+    "address": "0x96DB1F8055074aB62161B6Ad66Ab6B8679513DeF",
+    "start_block": 0
+  },
+  "rewardForStaking": {
+    "address": "0xc490512B2459b945BFBDf4D71242fC72586a8B28",
+    "start_block": 10811716
+  },
+  "aggregateQuery": {
+    "address": "0xbd8B5e90D613970E4cb4dc4d665f9AaA933283a0",
+    "start_block": 0
+  }
 }
