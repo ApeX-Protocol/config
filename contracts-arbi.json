@@ -1,19 +1,72 @@
 {
-    "router": "0x146c57aBB43a5B457cd8E109D35Ac27057a672e2",
-    "price_oracle": "0xCE09d07f7AdbE24aDA41fCc25106043D0106aB3B",
-    "config": "0x38a71796bC0291Bc09f4D890B45A9A93d49eDf70",
-    "pair_factory": "0xA7B799832B46B51b2b6a156FDCE58525dE24Ac0f",
-    "amm_factory": "0xC0998A57E7ECce2798bD6e1a634017f7c013348F",
-    "margin_factory": "0xFdCfAE9abb063bF4e54ce5aDC8B0A9F7cdEDcB6e",
-    "pcv_treasury": "0x73f5d8fb154d19a0C496E7411488cD455aB0373A",
-    "fee_treasury": "0x38207df68031f6019E780243b3B035f1903Ed560",
-    "reward_for_cashback": "0x5478a4e605D7AA798dC70eCD0A1C3299aaeaFDD7",
-    "invitation": "0x82adDfB22c87c921748d2BB7Ef708ceE5793Fb7A",
-    "nft_rebate": "0x2c5a68404a667f531dDb03a87090CeFe64B1CEdd",
-    "pairs": {
-        "ETH/USD": {
-            "amm": "0xf466a566f6B7145D0e79b3961422B40111623Fd0",
-            "margin": "0xb2E780110C0B333203Da7F1fD7dcE2F90A608f3C"
-        }
+  "pairs": {
+    "ETH/USD": {
+      "amm": "0xf466a566f6B7145D0e79b3961422B40111623Fd0",
+      "margin": "0xb2E780110C0B333203Da7F1fD7dcE2F90A608f3C"
     }
+  },
+  "amm_factory": {
+    "address": "0xC0998A57E7ECce2798bD6e1a634017f7c013348F",
+    "start_block": 0
+  },
+  "margin_factory": {
+    "address": "0xFdCfAE9abb063bF4e54ce5aDC8B0A9F7cdEDcB6e",
+    "start_block": 0
+  },
+  "fee_treasury": {
+    "address": "0x38207df68031f6019E780243b3B035f1903Ed560",
+    "start_block": 0
+  },
+  "nft_rebate": {
+    "address": "0x2c5a68404a667f531dDb03a87090CeFe64B1CEdd",
+    "start_block": 0
+  },
+  "pair_factory": {
+    "address": "0xA7B799832B46B51b2b6a156FDCE58525dE24Ac0f",
+    "start_block": 6695694
+  },
+  "price_oracle": {
+    "address": "0xCE09d07f7AdbE24aDA41fCc25106043D0106aB3B",
+    "start_block": 0
+  },
+  "config": {
+    "address": "0x38a71796bC0291Bc09f4D890B45A9A93d49eDf70",
+    "start_block": 0
+  },
+  "router": {
+    "address": "0x146c57aBB43a5B457cd8E109D35Ac27057a672e2",
+    "start_block": 0
+  },
+  "pcv_treasury": {
+    "address": "0x73f5d8fb154d19a0C496E7411488cD455aB0373A",
+    "start_block": 0
+  },
+  "apex": {
+    "address": "0x61A1ff55C5216b636a294A07D77C6F4Df10d3B56",
+    "start_block": 6695694
+  },
+  "WBTC": {
+    "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "start_block": 0
+  },
+  "WETH": {
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "start_block": 0
+  },
+  "USDC": {
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "start_block": 0
+  },
+  "multicall": {
+    "address": "0x82D550B27bA4FD402aAD58ECe8C393FcEC6b4afa",
+    "start_block": 0
+  },
+  "reward_for_cashback": {
+    "address": "0x5478a4e605D7AA798dC70eCD0A1C3299aaeaFDD7",
+    "start_block": 0
+  },
+  "invitation": {
+    "address": "0x82adDfB22c87c921748d2BB7Ef708ceE5793Fb7A",
+    "start_block": 0
+  }
 }
