@@ -73,6 +73,14 @@
         "address": "0xF8e730649f7f96c66EC0ddD5334f978C54DD9213",
         "start_block": 11469228
   },
+  "order_book": {
+    "address": "0xBa755E4c83368Be7066f5bA681cb06840e198677",
+    "start_block": 12183012
+  },
+  "router_for_keeper": {
+    "address": "0xE27C559032086d469C436c38Baaf67CF790E28AC",
+    "start_block": 12183011
+  },
   "apex": {
     "address": "0x4eB450a1f458cb60fc42B915151E825734d06dd8",
     "start_block": 7467590
