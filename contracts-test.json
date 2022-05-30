@@ -81,6 +81,10 @@
     "address": "0xE27C559032086d469C436c38Baaf67CF790E28AC",
     "start_block": 12183011
   },
+  "pool_create_event": {
+    "address": "0xDA973715a6cebF43497ef3A382EAd790A440c0fC",
+    "start_block": 12183319
+  },
   "apex": {
     "address": "0x4eB450a1f458cb60fc42B915151E825734d06dd8",
     "start_block": 7467590
