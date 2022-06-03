@@ -65,6 +65,18 @@
     "address": "0x5478a4e605D7AA798dC70eCD0A1C3299aaeaFDD7",
     "start_block": 0
   },
+  "order_book": {
+    "address": "0xB4DaB0749619BbA4835c1f0000CCA5AFc8D02ED4",
+    "start_block": 13590150
+  },
+  "router_for_keeper": {
+    "address": "0xeAA12c2c7258d750E3bD6F1AB58885876e2a4e8C",
+    "start_block": 13590147
+  },
+  "pool_create_event": {
+    "address": "0xffed355D11Db6a4636d647bCEa20ceAc98ADe0dd",
+    "start_block": 12232916
+  },
   "invitation": {
     "address": "0x82adDfB22c87c921748d2BB7Ef708ceE5793Fb7A",
     "start_block": 0
