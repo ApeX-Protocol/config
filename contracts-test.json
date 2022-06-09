@@ -28,8 +28,8 @@
         "start_block": 9339126
     },
     "fee_treasury": {
-        "address": "0xa605b22380E7eb86BC70f072fBB980Af3687f8d1",
-        "start_block": 11464581
+        "address": "0x2225F0bEef512e0302D6C4EcE4f71c85C2312c06",
+        "start_block": 11551900
     },
     "reward_for_cashback": {
         "address": "0xA637CCb82E22aE31b3D18Aa352a29c596b439948",
@@ -70,8 +70,8 @@
         "start_block": 11469223
     },
     "ve_apex": {
-        "address": "0xF8e730649f7f96c66EC0ddD5334f978C54DD9213",
-        "start_block": 11469228
+        "address": "0x691D38fd7Ec0f499a538B02095A1EB72E42cA8ed",
+        "start_block": 12710188
   },
   "order_book": {
     "address": "0x658947a81A921aE0f509ae3a91e48baf4a572CeC",
@@ -110,8 +110,8 @@
     "start_block": 0
   },
   "rewardForStaking": {
-    "address": "0xc490512B2459b945BFBDf4D71242fC72586a8B28",
-    "start_block": 10811716
+    "address": "0xD83439a073fE0f4375834a72a0399E09AbB8B5F1",
+    "start_block": 12711605
   },
   "aggregateQuery": {
     "address": "0xbd8B5e90D613970E4cb4dc4d665f9AaA933283a0",
