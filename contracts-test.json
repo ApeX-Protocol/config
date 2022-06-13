@@ -66,12 +66,12 @@
         "start_block": 12824059
     },
     "es_apex": {
-        "address": "0xfeBfeE9479ddC194e55e3227533F3748a1EC147B",
-        "start_block": 12823803
+        "address": "0x5e2b9CA08269C8abF7A6E000F22B2Ba79De72679",
+        "start_block": 12954412
     },
     "ve_apex": {
-        "address": "0x41D8A0e1fee54073D2A366c905d70B7dC9cD8058",
-        "start_block": 12824073
+        "address": "0x48b9609f40316787653ce8e1803c26F6806F38Af",
+        "start_block": 12954462
     },
     "order_book": {
         "address": "0x658947a81A921aE0f509ae3a91e48baf4a572CeC",
@@ -82,8 +82,8 @@
         "start_block": 12208480
     },
     "pool_create_event": {
-        "address": "0x62649145372218045528a59C2aE09558a24C19aA",
-        "start_block": 12823809
+        "address": "0xFD51E0c8D035Caf2A735866b58A04cb5B3Ac9015",
+        "start_block": 12954414
     },
     "apex": {
         "address": "0x3f355c9803285248084879521AE81FF4D3185cDD",
