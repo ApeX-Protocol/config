@@ -58,12 +58,12 @@
         "start_block": 11468990
     },
     "staking_pool_factory": {
-        "address": "0xA89303c84EBc88d61772e81902652C1eb562e107",
-        "start_block": 11469212
+        "address": "0x8B439679F7642d51b6871863aCe45DE78D13AeaC",
+        "start_block": 13227229
     },
     "apex_pool": {
-        "address": "0xe051700311975E62D8E746f52ffb432339111D2e",
-        "start_block": 12824059
+        "address": "0x7E3FC6085e555D96698E713e573945fC0d919474",
+        "start_block": 13227123
     },
     "es_apex": {
         "address": "0xe1A48F34B569132FAE9f48B57505D00824E04034",
