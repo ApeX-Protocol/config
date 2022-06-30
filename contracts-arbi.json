@@ -96,5 +96,9 @@
   "reward_for_staking": {
     "address": "0xF6aa36033716089DFC270ED09c181Dc9f3ef68B6",
     "start_block": 16382728
+  },
+  "aggregate_query": {
+    "address": "0x47C10FD671f62a66d12e3322F43772Aac904E81f",
+    "start_block": 16589078
   }
 }
