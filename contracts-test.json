@@ -109,11 +109,11 @@
         "address": "0x96DB1F8055074aB62161B6Ad66Ab6B8679513DeF",
         "start_block": 0
     },
-    "rewardForStaking": {
+    "reward_for_staking": {
         "address": "0xD83439a073fE0f4375834a72a0399E09AbB8B5F1",
         "start_block": 12711605
     },
-    "aggregateQuery": {
+    "aggregate_query": {
         "address": "0xbd8B5e90D613970E4cb4dc4d665f9AaA933283a0",
         "start_block": 0
     }
