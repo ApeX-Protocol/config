@@ -78,8 +78,8 @@
         "start_block": 12030531
     },
     "router_for_keeper": {
-        "address": "0xd0289956D975FB5a59fD3F5343F81662AD67D5ef",
-        "start_block": 12030531
+        "address": "0xa890c83acA43262e80603bBAD8CB429941Bae072",
+        "start_block": 13409882
     },
     "pool_create_event": {
         "address": "0x761a75349A56Ec560BFb2979C41a92fa9Ee2f0A8",
