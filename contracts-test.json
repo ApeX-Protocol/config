@@ -1,11 +1,11 @@
 {
     "router": {
-        "address": "0x9C240130a08CEf0bc8903ccBE2EEcc731Cb7aAe5",
-        "start_block": 11463744
+        "address": "0x70Db72c9C6e4e35db033Ecc965cceE8535d1f3Da",
+        "start_block": 13051988
     },
     "price_oracle": {
-        "address": "0xCAcf4C2745D246A7052137E55a8fAD026EEf7181",
-        "start_block": 11463725
+        "address": "0x59E5b2e5A0aD4e584FE4ae77C72E0fbfD6B8E28f",
+        "start_block": 12001959
     },
     "config": {
         "address": "0xCF4f7E54Cbd24C062Eda93A6f2aE30E039109dd6",
@@ -58,19 +58,63 @@
         "start_block": 11468990
     },
     "staking_pool_factory": {
-        "address": "0xA89303c84EBc88d61772e81902652C1eb562e107",
-        "start_block": 11469212
+        "address": "0x8B439679F7642d51b6871863aCe45DE78D13AeaC",
+        "start_block": 13227229
     },
     "apex_pool": {
-        "address": "0x6d8483FBA0D71e011DAc70d7cD2088af850A0F7B",
-        "start_block": 11469221
+        "address": "0x7E3FC6085e555D96698E713e573945fC0d919474",
+        "start_block": 13227123
     },
     "es_apex": {
-        "address": "0x4a683B0A1b96307225ba7b29eB294e9d644d3a10",
-        "start_block": 11469223
+        "address": "0xe1A48F34B569132FAE9f48B57505D00824E04034",
+        "start_block": 13226908
     },
     "ve_apex": {
-        "address": "0xF8e730649f7f96c66EC0ddD5334f978C54DD9213",
-        "start_block": 11469228
+        "address": "0x8594521Dfbe8c80f129EC35fF7727C7f732F1560",
+        "start_block": 13227143
+    },
+    "order_book": {
+        "address": "0x658947a81A921aE0f509ae3a91e48baf4a572CeC",
+        "start_block": 12208484
+    },
+    "router_for_keeper": {
+        "address": "0xADAc53F16e2cd7e7E0eC5ab015Fc217f3956e69e",
+        "start_block": 12208480
+    },
+    "pool_create_event": {
+        "address": "0x13F2af8122d2566fF5bf2924D381F50cc50647Ea",
+        "start_block": 13226914
+    },
+    "apex": {
+        "address": "0x3f355c9803285248084879521AE81FF4D3185cDD",
+        "start_block": 7467590
+    },
+    "WBTC": {
+        "address": "0x3f12c33bde6de5b66f88d7a5d3ce8de3c98b5fa7",
+        "start_block": 0
+    },
+    "WETH": {
+        "address": "0x655e2b2244934aea3457e3c56a7438c271778d44",
+        "start_block": 0
+    },
+    "USDC": {
+        "address": "0x79dcf515aa18399cf8fada58720fafbb1043c526",
+        "start_block": 0
+    },
+    "SHIB": {
+        "address": "0x1b9dcbf6cfeab28a5a359b3e0ca3d4ef3b2afd2c",
+        "start_block": 0
+    },
+    "multicall": {
+        "address": "0x96DB1F8055074aB62161B6Ad66Ab6B8679513DeF",
+        "start_block": 0
+    },
+    "reward_for_staking": {
+        "address": "0xD83439a073fE0f4375834a72a0399E09AbB8B5F1",
+        "start_block": 12711605
+    },
+    "aggregate_query": {
+        "address": "0xbd8B5e90D613970E4cb4dc4d665f9AaA933283a0",
+        "start_block": 0
     }
 }
