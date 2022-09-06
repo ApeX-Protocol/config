@@ -20,8 +20,8 @@
         "start_block": 7532298
     },
     "buyback_pool": {
-        "address": "0x725Dad1a28f2D364B9f1C5DF58E93AcC21be48F5",
-        "start_block": 7532298
+        "address": "0xe86E21d6EaF1f3dF50Ed73CC2B65aE9E992BA2CA",
+        "start_block": 7540922
     },
     "twamm": {
         "address": "0xcdda22E7286516887B170563d497b658F8CB25CF",
