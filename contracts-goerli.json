@@ -30,5 +30,9 @@
     "twamm_pair": {
         "address": "0x0FA72f144B9960622d7D7Fe2774197d7D3C17390",
         "start_block": 7576763
+    },
+    "es_apex": {
+        "address": "0x65F400c29D5a6F6CE68f62BD53a34F60CF7a64BD",
+        "start_block": 7587630
     }
 }
