@@ -28,11 +28,11 @@
     "start_block": 7449567
   },
   "twamm_pair": {
-    "address": "0x4Fd24A9a4E9B0762486A0f02D5d0d555F07A3d98",
+    "address": "0x3D84baC376514505f39b8D7E56dB10dfee57a10B",
     "start_block": 7576763
   },
   "es_apex": {
-    "address": "0x3D84baC376514505f39b8D7E56dB10dfee57a10B",
+    "address": "0x65F400c29D5a6F6CE68f62BD53a34F60CF7a64BD",
     "start_block": 7587630
   }
 }
