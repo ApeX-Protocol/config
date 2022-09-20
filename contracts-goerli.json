@@ -8,19 +8,19 @@
     "start_block": 6449786
   },
   "banana": {
-    "address": "0x52D838d9BfaEc2817884367235A819a13828BF76",
+    "address": "0xFa8ceA22A7fe57F51DB931C021Ad96811e73987e",
     "start_block": 7506633
   },
   "banana_claimable": {
-    "address": "0x0C7678a7403E34c5f6517e97250f50F4605e30Aa",
+    "address": "0x882A236baD0019d754691Ec292eAcD31dCAFFAF1",
     "start_block": 7583088
   },
   "banana_distributor": {
-    "address": "0x1e3DB01afFE679E46E4ee9ffDD604708431E62eD",
+    "address": "0x2Ecea8d2d6e61C686214557202B70d01fF56e395",
     "start_block": 7583090
   },
   "buyback_pool": {
-    "address": "0xB0A0D25c07D8A25fc51cc395BdeACD3bD7A744E6",
+    "address": "0x459e71EA49581c916bd67b47d84155E7770867Fb",
     "start_block": 7583090
   },
   "twamm": {
@@ -28,7 +28,7 @@
     "start_block": 7449567
   },
   "twamm_pair": {
-    "address": "0x3D84baC376514505f39b8D7E56dB10dfee57a10B",
+    "address": "0x2123ECC987B41532dB31652d3A8E063E199de78B",
     "start_block": 7576763
   },
   "es_apex": {
