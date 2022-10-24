@@ -145,6 +145,11 @@
       },
       {
         "internalType": "uint256",
+        "name": "accountId",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
         "name": "amount",
         "type": "uint256"
       },
@@ -172,9 +177,9 @@
   {
     "inputs": [
       {
-        "internalType": "address",
+        "internalType": "uint256",
         "name": "",
-        "type": "address"
+        "type": "uint256"
       }
     ],
     "name": "claimedAt",
@@ -338,6 +343,11 @@
         "internalType": "uint8",
         "name": "useFor",
         "type": "uint8"
+      },
+      {
+        "internalType": "uint256",
+        "name": "accountId",
+        "type": "uint256"
       },
       {
         "internalType": "uint256",
