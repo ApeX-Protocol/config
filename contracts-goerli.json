@@ -20,15 +20,15 @@
     "start_block": 7583090
   },
   "buyback_pool": {
-    "address": "0xCf7807cE2aAE2749bB1D7Db8129b422ae3Ffff84",
+    "address": "0x1efda03600f616e14251cf40eA157e4Ad66FE497",
     "start_block": 7583090
   },
   "twamm": {
-    "address": "0x8E24c50D2B20aC334Fd94900D7788a70b0991247",
+    "address": "0x4dE79c10beaE72039DD3C628E8096530546770A7",
     "start_block": 7449567
   },
   "twamm_pair": {
-    "address": "0x724eE628f362816b0b6B91F55c1252857480D888",
+    "address": "0xf6d51Db8f65eF9F885B647Cd975cbBb244c59B96",
     "start_block": 7576763
   },
   "es_apex": {
