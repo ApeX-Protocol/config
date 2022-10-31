@@ -155,6 +155,25 @@
     "type": "function"
   },
   {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "fees",
+        "type": "uint256"
+      }
+    ],
+    "name": "calReward",
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "newReward",
+        "type": "uint256"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
     "inputs": [],
     "name": "delta",
     "outputs": [
