@@ -1,7 +1,7 @@
 {
   "apex": {
     "address": "0x52A8845DF664D76C69d2EEa607CD793565aF42B8",
-    "start_block": 14287880
+    "start_block": 16000884
   },
   "usdc": {
     "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
