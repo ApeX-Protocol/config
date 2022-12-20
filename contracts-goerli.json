@@ -34,5 +34,9 @@
   "es_apex": {
     "address": "0xc06592769D9264055395Dc8539B7da3634CA9958",
     "start_block": 8008782
+  },
+  "staking_pool": {
+    "address": "0xeA5A56a1968EaF7C8d387b02F5267769Dcdfd46c",
+    "start_block": 8166995
   }
 }
