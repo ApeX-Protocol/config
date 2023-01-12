@@ -77,6 +77,12 @@
       {
         "indexed": false,
         "internalType": "uint256",
+        "name": "accountId",
+        "type": "uint256"
+      },
+      {
+        "indexed": false,
+        "internalType": "uint256",
         "name": "amount",
         "type": "uint256"
       }
@@ -104,6 +110,12 @@
         "internalType": "address",
         "name": "to",
         "type": "address"
+      },
+      {
+        "indexed": false,
+        "internalType": "uint256",
+        "name": "accountId",
+        "type": "uint256"
       },
       {
         "indexed": false,
@@ -179,6 +191,7 @@
   },
   {
     "inputs": [
+      { "internalType": "uint256", "name": "accountId", "type": "uint256" },
       { "internalType": "uint256", "name": "amount", "type": "uint256" }
     ],
     "name": "stakeAPEX",
@@ -188,6 +201,7 @@
   },
   {
     "inputs": [
+      { "internalType": "uint256", "name": "accountId", "type": "uint256" },
       { "internalType": "uint256", "name": "amount", "type": "uint256" }
     ],
     "name": "stakeEsAPEX",
@@ -196,14 +210,20 @@
     "type": "function"
   },
   {
-    "inputs": [{ "internalType": "address", "name": "", "type": "address" }],
+    "inputs": [
+      { "internalType": "address", "name": "", "type": "address" },
+      { "internalType": "uint256", "name": "", "type": "uint256" }
+    ],
     "name": "stakingAPEX",
     "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
     "stateMutability": "view",
     "type": "function"
   },
   {
-    "inputs": [{ "internalType": "address", "name": "", "type": "address" }],
+    "inputs": [
+      { "internalType": "address", "name": "", "type": "address" },
+      { "internalType": "uint256", "name": "", "type": "uint256" }
+    ],
     "name": "stakingEsAPEX",
     "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
     "stateMutability": "view",
@@ -212,6 +232,7 @@
   {
     "inputs": [
       { "internalType": "address", "name": "to", "type": "address" },
+      { "internalType": "uint256", "name": "accountId", "type": "uint256" },
       { "internalType": "uint256", "name": "amount", "type": "uint256" }
     ],
     "name": "unstakeAPEX",
@@ -222,6 +243,7 @@
   {
     "inputs": [
       { "internalType": "address", "name": "to", "type": "address" },
+      { "internalType": "uint256", "name": "accountId", "type": "uint256" },
       { "internalType": "uint256", "name": "amount", "type": "uint256" }
     ],
     "name": "unstakeEsAPEX",
